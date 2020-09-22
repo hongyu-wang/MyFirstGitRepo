@@ -1,3 +1,3 @@
-this is an edit to the first line.
+hello, this is vim conflict!.
 
 this is a change
